@@ -48,3 +48,7 @@ function error(): never {
 // object 
 let cart: object
 cart = { key: "fi" }
+
+/* Type Inference */
+
+let message2 = "mensagem definida"
